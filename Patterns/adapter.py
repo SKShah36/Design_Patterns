@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 
+
 class TextView:
     def get_extent(self):
         print("This is the specific request called get extent")

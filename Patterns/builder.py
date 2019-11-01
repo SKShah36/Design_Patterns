@@ -36,7 +36,8 @@ class House(HousePlan):
         self._interior = interior
 
 
-class HouseBuilder:
+class HouseBuilder(ABC):
+    @abstractmethod
     def build_basement(self) -> None:
         pass
 

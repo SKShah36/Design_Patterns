@@ -46,7 +46,7 @@ class NetOrder(OrderProcessTemplate):
 
 
 class StoreOrder(OrderProcessTemplate):
-    def do_select(self) ->None:
+    def do_select(self) -> None:
         print("Customer chooses the item from shelf.")
 
     def do_payment(self) -> None:

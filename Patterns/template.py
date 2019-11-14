@@ -1,9 +1,10 @@
 # This code is adapted from https://www.geeksforgeeks.org/template-method-design-pattern/
 
-from abc import ABC, abstractmethod
+import abc
+from abc import abstractmethod
 
 
-class OrderProcessTemplate:
+class OrderProcessTemplate(metaclass=abc.ABCMeta):
     isGift: bool
 
     @abstractmethod

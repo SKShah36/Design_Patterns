@@ -1,4 +1,8 @@
-from abc import ABC, abstractmethod
+# This code is written using references from https://refactoring.guru/design-patterns/abstract-factory and
+# https://refactoring.guru/design-patterns/abstract-factory/python/example
+
+import abc
+from abc import abstractmethod
 
 
 class Chair(metaclass=abc.ABCMeta):

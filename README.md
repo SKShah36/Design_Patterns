@@ -1,6 +1,7 @@
 # Design_Patterns
 
-This repository contains slides and code examples to demonstrate the 23 design patterns also known as 'Gang of Four Patterns' from the book 'Elements of Reusable Object-Oriented Software'.
+This repository contains report, slides and code examples to demonstrate the 23 design patterns also known as 'Gang of Four Patterns' from the book 'Elements of Reusable Object-Oriented Software'. 
+This work is carried out as part of the independent study numbered EECS 8850-01 on study of design patterns.  
 
 ## References
 
@@ -11,3 +12,5 @@ This repository contains slides and code examples to demonstrate the 23 design p
 5. “Design Patterns: Object Oriented Design,” *Design Patterns | Object Oriented Design*. [Online]. Available: https://www.oodesign.com/. [Accessed: 28-Nov-2019].
 6. “Design Patterns and Refactoring,” *SourceMaking*. [Online]. Available: https://sourcemaking.com/design_patterns. [Accessed: 28-Nov-2019].
 7. “Design Patterns,” *Refactoring.Guru*. [Online]. Available: https://refactoring.guru/design-patterns/. [Accessed: 28-Nov-2019].
+
+
